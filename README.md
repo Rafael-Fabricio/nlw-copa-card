@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="cartao da copa" src=".github/preview.png" width="100%">
+  <img alt="cartao da copa" src="github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
